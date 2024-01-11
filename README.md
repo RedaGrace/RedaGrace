@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RedaGrace
+- 👋 Hi, I’m @RedaGrace 
 - 👀 I’m interested in Data Science. I love dealing with large datasets, am curious about finding patterns and insights, and enjoy creating models, and storytelling.
 - 🌱 I’m currently working on a list of projects to gain experience, enhance my current skills, and add new ones.
 - 💞️ I’m looking to collaborate on AI projects that help humanity and to make my community a better place.
